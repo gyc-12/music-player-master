@@ -1,2 +1,2 @@
 # music-player-master
-old
+仓库改名，链接：https://github.com/gyc-12/Cymusic
